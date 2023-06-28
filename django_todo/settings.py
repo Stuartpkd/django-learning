@@ -26,7 +26,7 @@ SECRET_KEY = '''django-insecure-&2cd+6c__s$497ov6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-stuartpkd-djangolearnin-6sy50vvmp7e.ws-eu100.gitpod.io', '8000-stuartpkd-djangolearnin-3atyshmqelr.ws-eu100.gitpod.io']  # noqa: F841
+ALLOWED_HOSTS = ['8000-stuartpkd-djangolearnin-3atyshmqelr.ws-eu101.gitpod.io']  # noqa: F841
 
 
 # Application definition
